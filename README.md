@@ -22,4 +22,4 @@
 | **Backend**      | Node.js, Express.js             |
 | **Database**     | MongoDB                         |
 | **Version Control** | Git & GitHub                 |
-| **Authentication** | JWT o
+| **Authentication** | JWT 
